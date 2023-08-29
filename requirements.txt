@@ -1,0 +1,10 @@
+streamlit
+pydantic
+python-dotenv
+openai
+langchain
+chromadb
+PyPDF4
+pdfplumber
+tiktoken
+watchdog
